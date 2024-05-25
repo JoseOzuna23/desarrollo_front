@@ -1,0 +1,18 @@
+.shadow-text {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Por ejemplo, sombra con desplazamiento de 2px horizontalmente y verticalmente, difuminación de 4px, y color RGBA */
+}
+
+.radius{
+border-radius: 25px;
+}
+
+.sombra{
+box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3) !important; /* Cambia los valores según lo desees */
+
+}
+
+span{
+  font-size: 20px;
+ 
+}
+
